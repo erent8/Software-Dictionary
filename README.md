@@ -1,4 +1,4 @@
-# 📖 Yazılım, Yapay Zeka ve Makine Öğrenmesi Terimleri
+# 📖 Yazılım Terimleri Sözlüğü
 
 Bu repo yazılım dünyasında en sık kullanılan terimleri ve kısa açıklamalarını içermektedir. Yazılım geliştirme, sistem tasarımı, veri yapıları, algoritmalar, ağ, güvenlik, yapay zeka ve daha birçok alanda kullanılan terimler kategorilere ayrılmış şekilde sunulmuştur.
 
