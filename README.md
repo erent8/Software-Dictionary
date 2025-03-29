@@ -655,10 +655,6 @@ Bu repo yazılım dünyasında en sık kullanılan terimleri ve kısa açıklama
 - **Ensemble Learning:** Birden fazla modeli birleştirerek daha iyi sonuç alma
 - **Word Embedding:** Kelimeleri vektör uzayında temsil etme tekniği
 
----
-
-Bu liste sürekli güncellenmektedir. Eğer eklenmesini istediğiniz terimler varsa lütfen katkıda bulunun! 🚀
-
 ## ☁️ Bulut Bilişim
 
 ### Temel Kavramlar
@@ -945,6 +941,6 @@ Bu liste sürekli güncellenmektedir. Eğer eklenmesini istediğiniz terimler va
 - **Time to Detect:** Sorunun tespit edilme süresi
 - **Release Stabilization Time:** Sürüm kararlı hale gelme süresi
 
----
+-------
 
 Bu liste sürekli güncellenmektedir. Eğer eklenmesini istediğiniz terimler varsa lütfen katkıda bulunun! 🚀
