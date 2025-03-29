@@ -68,7 +68,7 @@ Bu repo yazılım dünyasında en sık kullanılan terimleri ve kısa açıklama
 - **Dependency Injection:** Bir nesneye bağımlılıklarının dışarıdan verilmesi tekniği
 - **Module Bundling:** Çoklu JavaScript dosyalarını tek bir dosyada birleştirme işlemi
 
-## Programlama Kavramları
+## 🖥 Programlama Kavramları
 
 ### Temel Yapılar
 - **Variable:** Değişken, veri saklamak için kullanılan bellek bölümü
@@ -181,7 +181,7 @@ Bu repo yazılım dünyasında en sık kullanılan terimleri ve kısa açıklama
 - **Starvation:** Bir işlemin sürekli olarak ihtiyaç duyduğu kaynağa erişememesi durumu
 - **Actor Model:** Aktörler arasında mesaj geçişine dayalı eşzamanlılık modeli
 
-## Yazılım Geliştirme Süreçleri
+## 🛠 Yazılım Geliştirme Süreçleri
 
 ### Metodolojiler
 - **Agile:** Esnek ve iteratif yazılım geliştirme metodolojisi
@@ -262,7 +262,7 @@ Bu repo yazılım dünyasında en sık kullanılan terimleri ve kısa açıklama
 - **Milestone:** Proje sürecinde önemli dönüm noktası
 - **Release Planning:** Ürün sürümlerinin planlanması
 
-##  Web Geliştirme
+## 🌐 Web Geliştirme
 
 ### Temel Teknolojiler
 - **HTTP / HTTPS:** Web istemcileri ve sunucuları arasında veri iletim protokolü
@@ -320,7 +320,7 @@ Bu repo yazılım dünyasında en sık kullanılan terimleri ve kısa açıklama
 - **RSS/Atom:** Web içeriği besleme formatları
 - **MIME Types:** İnternet üzerinde gönderilen içeriğin türünü belirten standart
 
-##  Mobil Geliştirme
+## 📱 Mobil Geliştirme
 
 ### Genel Kavramlar
 - **Native App:** Belirli bir mobil platform için o platformun teknolojisiyle geliştirilen uygulama
@@ -464,7 +464,7 @@ Bu repo yazılım dünyasında en sık kullanılan terimleri ve kısa açıklama
 - **Star Schema:** Yıldız şeması, veri ambarı modelleme yöntemi
 - **Snowflake Schema:** Kardanağacı şeması, veri ambarı modelleme yöntemi
 
-##  Siber Güvenlik
+## 🔐 Siber Güvenlik
 
 ### Temel Kavramlar
 - **Hashing:** Verileri tek yönlü olarak şifreleyen işlem
@@ -526,7 +526,7 @@ Bu repo yazılım dünyasında en sık kullanılan terimleri ve kısa açıklama
 - **SHA (Secure Hash Algorithm):** Güvenli özet algoritması
 - **Salt:** Şifre hashlerine eklenen rastgele değer, sözlük saldırılarını önlemek için
 
-##  Veri Bilimi
+## 🔍 Veri Bilimi
 
 ### Temel Kavramlar
 - **Data Science:** Veri bilimi, verilerden değer çıkarma disiplini
@@ -709,7 +709,7 @@ Bu liste sürekli güncellenmektedir. Eğer eklenmesini istediğiniz terimler va
 - **Shared Responsibility Model:** Paylaşılan sorumluluk modeli
 - **Zero Trust Security:** Sıfır güven güvenlik modeli
 
-##  DevOps ve SRE
+## 🔄 DevOps ve SRE
 
 ### DevOps Kavramları
 - **DevOps:** Geliştirme ve operasyon ekipleri arasındaki işbirliğini artıran yaklaşım
@@ -771,7 +771,7 @@ Bu liste sürekli güncellenmektedir. Eğer eklenmesini istediğiniz terimler va
 - **ConfigMap:** Yapılandırma bilgilerini depolama
 - **Secret:** Hassas bilgileri depolama
 
-##  Blockchain ve Web3
+## 🌍 Blockchain ve Web3
 
 ### Temel Kavramlar
 - **Blockchain:** Değiştirilemez, dağıtık kayıt defteri teknolojisi
